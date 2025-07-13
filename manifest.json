@@ -1,0 +1,23 @@
+{
+  "name": "Wochenzettel - Zeiterfassung",
+  "short_name": "Wochenzettel",
+  "description": "Eine App zur Erfassung von Arbeitszeiten und Überstunden.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
