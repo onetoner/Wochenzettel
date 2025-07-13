@@ -1,4 +1,4 @@
-const CACHE_NAME = 'wochenzettel-cache-v3';
+const CACHE_NAME = 'wochenzettel-cache-v7';
 // Local app shell files. CDN resources will be cached on demand.
 const APP_SHELL_URLS = [
   '/',
